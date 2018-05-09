@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TOEC_Index_Test" GeneratedClassName="Common">
+  <Profiles />
+  <Settings>
+    <Setting Name="AutoStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ConStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=172.1.10.88;database=sartas;user=sartas;pwd=sartas;port=3306;CharSet=utf8; Convert Zero Datetime=True; Allow Zero Datetime=True;</Value>
+    </Setting>
+    <Setting Name="Path_DataImportExport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\TOECProgramFiles\DataImportExport\</Value>
+    </Setting>
+    <Setting Name="Path_SucceedXMLFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\DATABACK\TX_bak\#E:\DATABACK\TX_ignore\#E:\DATABACK\TX_disuse\</Value>
+    </Setting>
+    <Setting Name="Path_Pic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\GQPics\</Value>
+    </Setting>
+    <Setting Name="Path_Video" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\lx\</Value>
+    </Setting>
+    <Setting Name="Path_Voice" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\lx\</Value>
+    </Setting>
+    <Setting Name="Path_Hotwheel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\DATABACK\hotdata_bak\</Value>
+    </Setting>
+    <Setting Name="Path_ZXPic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\ZXGQPics\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
