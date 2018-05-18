@@ -32,3 +32,17 @@ E:\SVN\SourceCode\TOEC_Framework\TOEC_Inspection\TOEC Index Test\obj\x86\Debug\T
 E:\SVN\SourceCode\TOEC_Framework\TOEC_Inspection\TOEC Index Test\obj\x86\Debug\TOEC Index Test.pdb
 E:\SVN\SourceCode\TOEC_Framework\TOEC_Inspection\TOEC Index Test\bin\x86\Debug\Newtonsoft.Json.dll
 E:\SVN\SourceCode\TOEC_Framework\TOEC_Inspection\TOEC Index Test\obj\x86\Debug\TOEC Index Test.csproj.TOEC Index Test.exe.config
+D:\code\gitgit\TOEC_Index_Test\bin\x86\Debug\TOEC Index Test.exe.config
+D:\code\gitgit\TOEC_Index_Test\obj\x86\Debug\TOEC Index Test.exe
+D:\code\gitgit\TOEC_Index_Test\obj\x86\Debug\TOEC Index Test.pdb
+D:\code\gitgit\TOEC_Index_Test\bin\x86\Debug\TOEC Index Test.exe
+D:\code\gitgit\TOEC_Index_Test\bin\x86\Debug\TOEC Index Test.pdb
+D:\code\gitgit\TOEC_Index_Test\bin\x86\Debug\Heng.dll
+D:\code\gitgit\TOEC_Index_Test\bin\x86\Debug\MySql.Data.dll
+D:\code\gitgit\TOEC_Index_Test\bin\x86\Debug\Newtonsoft.Json.dll
+D:\code\gitgit\TOEC_Index_Test\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\code\gitgit\TOEC_Index_Test\obj\x86\Debug\TOEC Index Test.csprojResolveAssemblyReference.cache
+D:\code\gitgit\TOEC_Index_Test\obj\x86\Debug\TOEC Index Test.csproj.TOEC Index Test.exe.config
+D:\code\gitgit\TOEC_Index_Test\obj\x86\Debug\TOEC_Index_Test.frm_Main_IndexTest.resources
+D:\code\gitgit\TOEC_Index_Test\obj\x86\Debug\TOEC_Index_Test.Properties.Resources.resources
+D:\code\gitgit\TOEC_Index_Test\obj\x86\Debug\TOEC Index Test.csproj.GenerateResource.Cache
