@@ -54,10 +54,10 @@ namespace TOEC_Index_Test
 
         private void InitLine()
         {
-            DataTable dt = DataHelper.ExecuteMySqlDataTable("SELECT l.Line_ID,l.GQCode FROM line l");
+            DataTable dt = DataHelper.ExecuteMySqlDataTable("SELECT l.LineID,l.LineCode FROM line l");
             for (int i = 0; i < dt.Rows.Count; i++)
             {
-                LineList.Add(new LineInfo(Convert.ToInt16(dt.Rows[i]["Line_ID"]), Convert.ToString(dt.Rows[i]["GQCode"])));
+                LineList.Add(new LineInfo(Convert.ToInt16(dt.Rows[i]["LineID"]), Convert.ToString(dt.Rows[i]["LineCode"])));
             }
         }
 
